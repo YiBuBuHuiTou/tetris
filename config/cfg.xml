@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<frame title = "java俄罗斯方块" width="1000" height="680" padding="16" windowsize="7">
+		<layer className="com.cxd.ui.LayerBackground" x="0" y="0" w="0" h="0" />
+		<layer className="com.cxd.ui.LayerDataBase" x="32" y="30" w="250" h="250" />
+		<layer className="com.cxd.ui.LayerDisk" x="32" y="350" w="250" h="250" />
+		<layer className="com.cxd.ui.LayerGame" x="330" y="30" w="320" h="576" />
+		<layer className="com.cxd.ui.LayerButton" x="700" y="30" w="250" h="40" />
+		<layer className="com.cxd.ui.LayerNext" x="700" y="110" w="118" h="100" />
+		<layer className="com.cxd.ui.LayerLevel" x="832" y="110" w="125" h="100" />
+		<layer className="com.cxd.ui.LayerPoint" x="700" y="245" w="250" h="150" />
+		<layer className="com.cxd.ui.LayerAbout" x="700" y="430" w="250" h="176" />
+	</frame>
+	<system>
+
+
+	</system>
+	<data>
+
+
+	</data>
+
+
+</game>
